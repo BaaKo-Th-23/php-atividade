@@ -5,6 +5,6 @@
   <title>Site TDS III</title>
 </head>
 <body>
-    <?php echo "<h1>Olá, mundo!</h1>" ?>
+    <?php echo "<h1>ATIVIDADE DO THIAGO</h1>" ?>
 </body>
 </html>
